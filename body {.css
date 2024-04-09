@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.hero video {
+    max-width: 800px;
+}
+
+.hero button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.clients,
+.portfolio,
+.testimonials,
+.pricing {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.clients img {
+    width: 150px;
+    margin: 10
